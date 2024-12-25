@@ -1,7 +1,7 @@
 {
-  "name": "portfoliosubmission",
+  "name": "week4",
   "version": "1.0.0",
-  "main": "week1ex3.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,7 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "prompt-sync": "^4.2.0",
-    "readline-sync": "^1.4.10"
+    "express": "^4.21.1"
   }
 }
